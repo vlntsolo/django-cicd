@@ -10,7 +10,4 @@ python manage.py showmigrations;
 python manage.py migrate users --noinput;
 # migrate the rest
 python manage.py migrate --noinput;
-# create superuser
-python manage.py createsu;
-
 }
