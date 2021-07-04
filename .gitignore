@@ -245,10 +245,3 @@ sketch
 /.idea/inspectionProfiles/profiles_settings.xml
 /.idea/vcs.xml
 /.idea/watcherTasks.xml
-
-#DevOps
-django.config
-.vscode/
-backup/
-*.sass-cache
-*.code-workspace
