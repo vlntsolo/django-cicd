@@ -1,0 +1,1 @@
+# Tutorial project for Django - AWS Beanstalk CI-CD workflow
